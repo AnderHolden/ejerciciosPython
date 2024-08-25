@@ -1,0 +1,7 @@
+# print('100+10')
+# print('Hola ' + '' + 'Andrés')
+# print('Me llamo \"Andrés\"')
+# print('Esta es una línea\nY esta es otra línea')
+# print('\tEsto es tabiulación')
+# print('línea 1\nlínea 2\nlínea 3')
+# print('\tA\tB\tC\n\tD\tE\tF\n\tG\tH\tI')
