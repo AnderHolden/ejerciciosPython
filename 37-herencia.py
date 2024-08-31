@@ -51,10 +51,11 @@ print(f"Cantidad de patas: {mi_perro.cantidad_patas}")
 
 
 class Vehiculo:
+   
     def acelerar(self):
-        pass
+        print("Modo Acelerado")
     def frenar(self):
-        pass
+        print("Vehiculo ha parado")
 class Automovil(Vehiculo):
     pass
 
